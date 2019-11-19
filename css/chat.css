@@ -1,0 +1,24 @@
+body {
+    color: #333;
+    background: #FFF;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+input {
+    width: 500px;
+}
+
+textarea {
+    width: 500px;
+    height: 100px;
+}
+
+#chatMsg {
+    margin-top: 20px;
+}
+
+#chatMsg li {
+    width: 500px;
+}
